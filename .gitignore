@@ -1,0 +1,5 @@
+/.project
+/__pycache__/*.*
+/File_List.csv
+/Failed_File.txt
+/.vscode/
